@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
 import colors from '../../Themes/colors';
 import Button from '../../components/Button';
 
@@ -8,9 +8,7 @@ const Home = () => (
     <div>
       <Title>Cambialo</Title>
     </div>
-    <PepeButon>
-      Cambiar
-    </PepeButon>
+    <PepeButon>Cambiar</PepeButon>
   </Wrapper>
 );
 
